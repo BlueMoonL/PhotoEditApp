@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554102962548",
+    "project_id": "photoeditapp-4f722",
+    "storage_bucket": "photoeditapp-4f722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554102962548:android:69cb4f554c6db681c81421",
+        "android_client_info": {
+          "package_name": "com.bliss.csc.photoeditapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554102962548-mfs01kf3oqhmtrqmo7nrf3ao3kuqsdjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AlhMILcHpJQTuSOIqW7NnEjxr_whRt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554102962548-mfs01kf3oqhmtrqmo7nrf3ao3kuqsdjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
